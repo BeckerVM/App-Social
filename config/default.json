@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://becker2203:0SiLKOo6opZm5Tfg@cluster0-fz7se.mongodb.net/app_social?retryWrites=true&w=majority",
-  "jwtSECRET": "secretkey"
+  "jwtSECRET": "secretkey",
+  "githubClientId": "daee7bcda3a91467119a",
+  "githubSecret": "d6a23fc831b1b4a6a0a1a0ca49bc9428545a0609"
 }
